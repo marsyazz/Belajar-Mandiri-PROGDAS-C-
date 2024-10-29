@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Halo Namaku Ovy Marsya" << endl <<endl;
+  cout << "Asal Kampus: Unesa" << endl;
+  cout << "Prodi: S1 - Sistem Informasi" << endl;
+  int angkatan = 2024;
+  cout << "Saya masuk kelas ini di angkatan "; 
+  cout << angkatan << endl <<endl;
+  cout << "Salam kenal ya!" ;
+  return 0;
+}
